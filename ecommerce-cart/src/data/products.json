@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "category": "Electronics",
+    "price": 1499,
+    "image": "/ShopCart/images/wireless-headphones.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "category": "Electronics",
+    "price": 2499,
+    "image": "/ShopCart/images/smartwatch.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Running Shoes",
+    "category": "Fashion",
+    "price": 1999,
+    "image": "/ShopCart/images/shoes.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Backpack",
+    "category": "Fashion",
+    "price": 999,
+    "image": "/ShopCart/images/backpack.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Coffee Mug",
+    "category": "Home",
+    "price": 399,
+    "image": "/ShopCart/images/mug.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Table Lamp",
+    "category": "Home",
+    "price": 799,
+    "image": "/ShopCart/images/lamp.jpg"
+  }
+]
